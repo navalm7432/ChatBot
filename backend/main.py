@@ -1,4 +1,4 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
+# api routes 
 
 from fastapi import FastAPI
 from fastapi import Request
