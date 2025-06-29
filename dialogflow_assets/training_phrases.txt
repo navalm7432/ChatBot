@@ -1,4 +1,4 @@
-
+#trainnig phrases for dialogflow
 
 Default Welcome Intent
 ======================
